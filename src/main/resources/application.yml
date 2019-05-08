@@ -1,0 +1,3 @@
+jenkins:
+  uri: http://
+  port: 3000 
